@@ -6,7 +6,7 @@ Accepted at *3D Reconstruction Meets Semantics* - ECCV 2018 Workshop
 If you find this work useful in your research, please consider citing:
 ```
 @inproceedings{mandikal20183dpsrnet,
- author = {Mandikal, Priyanka and K L, Navaneet and Babu, R Venkatesh},
+ author = {Mandikal, Priyanka and Navaneet, K L and Babu, R Venkatesh},
  booktitle = {3D Reconstruction Meets Semantics Workshop ({ECCVW})},
  title = {{3D-PSRNet}: Part Segmented 3{D} Point Cloud Reconstruction From a Single Image},
  year = {2018}
