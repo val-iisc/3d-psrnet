@@ -68,7 +68,7 @@ Run the following to visualize the results for 3D-LMNet:
 ```shell
 bash scripts/demo.sh
 ```
-You can navigate to the next visualization by pressing 'q'.
+You can navigate to the next visualization by pressing 'q'. Close visualization using back arrow. You can visualize results for different categories by changing the value of the category flag.
 
 ## Sample Results
 Below are a few sample reconstructions from our trained model.
